@@ -2,7 +2,7 @@
 
 This gem is a simple wrapper around the Masonry plugin.
 It is bundled as a gem to be able to include this 3rd party asset into the asset pipeline, without having to locally import the actual CSS and JavaScript into your project.
-Please see hhttp://masonry.desandro.com/ for the original plugin.
+Please see http://masonry.desandro.com/ for the original plugin.
 
 ## Installation
 
