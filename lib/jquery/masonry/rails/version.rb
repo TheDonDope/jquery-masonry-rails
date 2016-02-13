@@ -1,7 +1,7 @@
 module Jquery
   module Masonry
     module Rails
-      VERSION = "3.1.5"
+      VERSION = "4.0.0"
     end
   end
 end

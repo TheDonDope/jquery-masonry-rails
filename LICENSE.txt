@@ -1,4 +1,4 @@
-Copyright (c) 2014 Christian Dobert
+Copyright (c) 2016 Christian Dobert
 
 MIT License
 
